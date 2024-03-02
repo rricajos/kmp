@@ -1,2 +1,2 @@
 # kmp
-Hello Kotlin Multi-Platform (dev with JetBains Fleet)
+KotlinProject - Hello Kotlin Multi-Platform (dev with JetBains Fleet)
